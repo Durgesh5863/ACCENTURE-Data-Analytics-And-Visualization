@@ -73,7 +73,7 @@ First: Open the three data sets below
   - Removing columns that are not relevant to this task.
     - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
-[Download Cleaned Dataset](Task 2/cleaned_dataset.csv)
+[Download Cleaned Dataset]((https://github.com/Durgesh5863/ACCENTURE-Data-Analytics-And-Visualization/blob/0a7e7374e2d3b68fa32e308aa8ce63165185ff6c/Task%202/cleaned_dataset.csv))
 
 ### Data Modelling
 ![image](https://github.com/santoshkambala/SocialBuzz/assets/128189574/80bbe861-e19b-4676-ab3f-8b15e2d673a0)
