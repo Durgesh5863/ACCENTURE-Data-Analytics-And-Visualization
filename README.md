@@ -36,9 +36,6 @@ I was assigned to address missing data, outliers, and data quality concerns in a
   - The Data refers to the relevant data sources that we will clean, process, and use to generate interesting insights for the business.
 
 
-**Accenture Project Team**
-![image](https://github.com/santoshkambala/SocialBuzz/assets/128189574/2d984fbb-b54b-435c-a60c-964e8becde09)
-
 
 ## **Task - 2: Data Cleaning & Modeling**
 The client has sent through:
